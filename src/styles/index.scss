@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'DM Sans', sans-serif;
+}
+  
+a {
+    outline: none;
+    text-decoration: none;
+    color: black;
+}
+
+button {
+    outline: none;
+    border: none;
+}
+
+input {
+    border: none;
+    outline: none;
+}
+
+li {
+    list-style: none;
+}
+
+textarea {
+    resize: none;
+    border: none;
+    outline: none;
+    overflow:hidden
+}
