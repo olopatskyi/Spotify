@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spotify.Data", "Spotify.Data\Spotify.Data.csproj", "{5EA7635D-7BA4-41E5-BCF0-2ECE1FAC7848}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spotify.Artist.Api", "Spotify.Artist.Api\Spotify.Artist.Api.csproj", "{3AEE794E-CA33-453F-9350-1E1B3C308840}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spotify.Client.Api", "Spotify.Client.Api\Spotify.Client.Api.csproj", "{5584826D-BBB5-4214-9A4D-352AC237C882}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spotify.Framework", "Spotify.Framework\Spotify.Framework.csproj", "{D54FA3C9-9008-4424-AECC-20BC2DB72928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spotify.Identity", "Spotify.Identity\Spotify.Identity.csproj", "{B93D57C8-7EAD-43FA-A290-9881BC1BA3E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EA7635D-7BA4-41E5-BCF0-2ECE1FAC7848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA7635D-7BA4-41E5-BCF0-2ECE1FAC7848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA7635D-7BA4-41E5-BCF0-2ECE1FAC7848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA7635D-7BA4-41E5-BCF0-2ECE1FAC7848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AEE794E-CA33-453F-9350-1E1B3C308840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AEE794E-CA33-453F-9350-1E1B3C308840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AEE794E-CA33-453F-9350-1E1B3C308840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AEE794E-CA33-453F-9350-1E1B3C308840}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5584826D-BBB5-4214-9A4D-352AC237C882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5584826D-BBB5-4214-9A4D-352AC237C882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5584826D-BBB5-4214-9A4D-352AC237C882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5584826D-BBB5-4214-9A4D-352AC237C882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D54FA3C9-9008-4424-AECC-20BC2DB72928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D54FA3C9-9008-4424-AECC-20BC2DB72928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D54FA3C9-9008-4424-AECC-20BC2DB72928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D54FA3C9-9008-4424-AECC-20BC2DB72928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B93D57C8-7EAD-43FA-A290-9881BC1BA3E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B93D57C8-7EAD-43FA-A290-9881BC1BA3E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B93D57C8-7EAD-43FA-A290-9881BC1BA3E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B93D57C8-7EAD-43FA-A290-9881BC1BA3E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
